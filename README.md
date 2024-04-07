@@ -1,4 +1,7 @@
 # Certificados-DIO
 Certificados da DIO
 
-|Curso |Certificado
+| Curso         | Certificado   |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
