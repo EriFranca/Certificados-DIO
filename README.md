@@ -9,7 +9,7 @@ Certificados da DIO
 <img src="https://hermes.dio.me/courses/badge/84c6535f-5512-408f-88c5-c37b87654420.png" height="50"></a>  | [Introdução ao Ecossistema e Documentação PHP](https://www.dio.me/certificate/8ESHUACF/share) |
 <img src="https://hermes.dio.me/courses/badge/251367d2-2199-4245-ac35-b8cb52b10ee1.png" height="50"></a>  | [Tipos de Variáveis em PHP](https://www.dio.me/certificate/YTOHTFTG/share) |
 <img src="https://hermes.dio.me/courses/badge/abe760d8-f69a-4615-83fc-396bfb3ffdb1.png" height="50"></a>  | [Estruturas Condicionais e de Repetição em PHP](https://www.dio.me/certificate/OOYCSSB1/share) |
-<img src="https://hermes.dio.me/courses/badge/12f21f3b-ef8e-4149-bdd6-d4680bb334e4.png.png" height="50"></a>  | [Debug e Tratamento de Exceções em PHP](https://www.dio.me/certificate/KYRZHZVZ/share)
+<img src="https://hermes.dio.me/courses/badge/12f21f3b-ef8e-4149-bdd6-d4680bb334e4.png" height="50"></a>  | [Debug e Tratamento de Exceções em PHP](https://www.dio.me/certificate/KYRZHZVZ/share)
 
 
 
