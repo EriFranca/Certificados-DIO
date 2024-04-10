@@ -10,7 +10,8 @@ Certificados da DIO
 <img src="https://hermes.dio.me/courses/badge/251367d2-2199-4245-ac35-b8cb52b10ee1.png" height="50"></a>  | [Tipos de Variáveis em PHP](https://www.dio.me/certificate/YTOHTFTG/share) |
 <img src="https://hermes.dio.me/courses/badge/abe760d8-f69a-4615-83fc-396bfb3ffdb1.png" height="50"></a>  | [Estruturas Condicionais e de Repetição em PHP](https://www.dio.me/certificate/OOYCSSB1/share) |
 <img src="https://hermes.dio.me/courses/badge/12f21f3b-ef8e-4149-bdd6-d4680bb334e4.png" height="50"></a>  | [Debug e Tratamento de Exceções em PHP](https://www.dio.me/certificate/KYRZHZVZ/share) |
-<img src="https://hermes.dio.me/courses/badge/dd8aaf97-a026-4084-b359-5d2c4d5a922e.png" height="50"></a>  | [Introdução ao Ruby](https://www.dio.me/certificate/1CKDXYQZ/share)
+<img src="https://hermes.dio.me/courses/badge/dd8aaf97-a026-4084-b359-5d2c4d5a922e.png" height="50"></a>  | [Introdução ao Ruby](https://www.dio.me/certificate/1CKDXYQZ/share) |
+<img src="https://hermes.dio.me/courses/badge/f504d58a-c576-43b1-a1c8-8aa8094c3ba8.png" height="50"></a>  | [Conceitos de Ruby](https://www.dio.me/certificate/XJ6HYRFI/share)
 
 
 
